@@ -1,0 +1,11 @@
+ul{
+    /* 黒ポチを消す */
+    list-style: none;
+    /* 横並び */
+    display: flex;
+    background-color: aqua;
+}
+
+li{
+    margin-left:  20px;
+}
